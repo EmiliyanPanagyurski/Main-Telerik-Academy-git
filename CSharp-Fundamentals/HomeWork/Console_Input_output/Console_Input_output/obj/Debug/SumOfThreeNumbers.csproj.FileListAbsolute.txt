@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\Console_Input_output\bin\Debug\Console_Input_output.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\Console_Input_output\bin\Debug\Console_Input_output.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\Console_Input_output\bin\Debug\Console_Input_output.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\Console_Input_output\obj\Debug\SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\Console_Input_output\obj\Debug\Console_Input_output.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\Console_Input_output\obj\Debug\Console_Input_output.pdb

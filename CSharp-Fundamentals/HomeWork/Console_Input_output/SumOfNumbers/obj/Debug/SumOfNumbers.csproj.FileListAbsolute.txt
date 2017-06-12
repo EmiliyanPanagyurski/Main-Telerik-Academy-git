@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

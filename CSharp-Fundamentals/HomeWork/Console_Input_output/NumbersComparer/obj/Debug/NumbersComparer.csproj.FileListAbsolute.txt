@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersComparer\bin\Debug\NumbersComparer.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersComparer\bin\Debug\NumbersComparer.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersComparer\bin\Debug\NumbersComparer.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersComparer\obj\Debug\NumbersComparer.csprojResolveAssemblyReference.cache
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersComparer\obj\Debug\NumbersComparer.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersComparer\obj\Debug\NumbersComparer.pdb

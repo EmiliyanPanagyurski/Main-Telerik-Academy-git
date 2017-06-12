@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\CompanyInfo\bin\Debug\CompanyInfo.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\CompanyInfo\bin\Debug\CompanyInfo.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\CompanyInfo\bin\Debug\CompanyInfo.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\CompanyInfo\obj\Debug\CompanyInfo.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\CompanyInfo\obj\Debug\CompanyInfo.pdb

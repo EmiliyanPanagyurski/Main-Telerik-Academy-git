@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersFromOneToN\bin\Debug\NumbersFromOneToN.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\NumbersFromOneToN\obj\Debug\NumbersFromOneToN.pdb

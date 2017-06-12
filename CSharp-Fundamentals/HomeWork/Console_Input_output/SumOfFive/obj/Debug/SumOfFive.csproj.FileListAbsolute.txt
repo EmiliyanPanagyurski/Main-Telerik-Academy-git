@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfFive\bin\Debug\SumOfFive.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfFive\bin\Debug\SumOfFive.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfFive\bin\Debug\SumOfFive.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfFive\obj\Debug\SumOfFive.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Console_Input_output\SumOfFive\obj\Debug\SumOfFive.pdb
