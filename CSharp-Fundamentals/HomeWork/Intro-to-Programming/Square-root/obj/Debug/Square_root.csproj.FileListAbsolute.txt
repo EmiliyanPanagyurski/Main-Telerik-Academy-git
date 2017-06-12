@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Square-root\bin\Debug\Square-root.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Square-root\obj\Debug\Square-root.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Square-root\obj\Debug\Square-root.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Square-root\bin\Debug\Square-root.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Square-root\bin\Debug\Square-root.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Square-root\obj\Debug\Square_root.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\MythicalNumbers\bin\Debug\MythicalNumbers.exe.config
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\MythicalNumbers\bin\Debug\MythicalNumbers.exe
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\MythicalNumbers\bin\Debug\MythicalNumbers.pdb
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\MythicalNumbers\obj\Debug\MythicalNumbers.exe
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\MythicalNumbers\obj\Debug\MythicalNumbers.pdb
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\MythicalNumbers\obj\Debug\MythicalNumbers.csprojResolveAssemblyReference.cache

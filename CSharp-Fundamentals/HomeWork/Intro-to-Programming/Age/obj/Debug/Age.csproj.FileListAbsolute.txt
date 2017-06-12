@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Age\bin\Debug\Age.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Age\bin\Debug\Age.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Age\bin\Debug\Age.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Age\obj\Debug\Age.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Age\obj\Debug\Age.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\Age\obj\Debug\Age.csprojResolveAssemblyReference.cache

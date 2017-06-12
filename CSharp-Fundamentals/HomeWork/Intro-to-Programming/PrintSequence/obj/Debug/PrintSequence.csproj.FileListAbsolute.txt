@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintSequence\bin\Debug\PrintSequence.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintSequence\bin\Debug\PrintSequence.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintSequence\bin\Debug\PrintSequence.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintSequence\obj\Debug\PrintSequence.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintSequence\obj\Debug\PrintSequence.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintSequence\obj\Debug\PrintSequence.csprojResolveAssemblyReference.cache

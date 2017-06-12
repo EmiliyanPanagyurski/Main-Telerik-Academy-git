@@ -1,0 +1,6 @@
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\PartyJump\bin\Debug\PartyJump.exe.config
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\PartyJump\bin\Debug\PartyJump.exe
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\PartyJump\bin\Debug\PartyJump.pdb
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\PartyJump\obj\Debug\PartyJump.csprojResolveAssemblyReference.cache
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\PartyJump\obj\Debug\PartyJump.exe
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\PartyJump\obj\Debug\PartyJump.pdb

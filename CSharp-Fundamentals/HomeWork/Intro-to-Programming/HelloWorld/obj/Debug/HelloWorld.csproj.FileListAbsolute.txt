@@ -1,0 +1,8 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Panagyurski\Desktop\main-telerik-git\Main-Telerik-Academy-git\CSharp-Fundamentals\HomeWork\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Panagyurski\Desktop\main-telerik-git\Main-Telerik-Academy-git\CSharp-Fundamentals\HomeWork\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Panagyurski\Desktop\main-telerik-git\Main-Telerik-Academy-git\CSharp-Fundamentals\HomeWork\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,6 @@
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\Mix\bin\Debug\Mix.exe.config
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\Mix\bin\Debug\Mix.exe
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\Mix\bin\Debug\Mix.pdb
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\Mix\obj\Debug\Mix.csprojResolveAssemblyReference.cache
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\Mix\obj\Debug\Mix.exe
+C:\Users\Panagyurski\Documents\Visual Studio 2015\Projects\ExamCsharp-10.11..2016-Morning\Mix\obj\Debug\Mix.pdb

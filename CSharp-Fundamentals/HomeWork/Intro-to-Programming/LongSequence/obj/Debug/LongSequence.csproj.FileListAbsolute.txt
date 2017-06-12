@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\LongSequence\bin\Debug\LongSequence.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\LongSequence\bin\Debug\LongSequence.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\LongSequence\bin\Debug\LongSequence.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\LongSequence\obj\Debug\LongSequence.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\LongSequence\obj\Debug\LongSequence.pdb

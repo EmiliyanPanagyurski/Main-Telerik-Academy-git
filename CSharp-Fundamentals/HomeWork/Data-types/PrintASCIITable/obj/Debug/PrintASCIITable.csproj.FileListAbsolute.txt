@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\PrintASCIITable\bin\Debug\PrintASCIITable.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\PrintASCIITable\bin\Debug\PrintASCIITable.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\PrintASCIITable\bin\Debug\PrintASCIITable.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\PrintASCIITable\obj\Debug\PrintASCIITable.csprojResolveAssemblyReference.cache
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\PrintASCIITable\obj\Debug\PrintASCIITable.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\PrintASCIITable\obj\Debug\PrintASCIITable.pdb

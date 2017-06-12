@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\Quotes\bin\Debug\Quotes.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\Quotes\bin\Debug\Quotes.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\Quotes\bin\Debug\Quotes.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\Quotes\obj\Debug\Quotes.csprojResolveAssemblyReference.cache
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\Quotes\obj\Debug\Quotes.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Data-types\Quotes\obj\Debug\Quotes.pdb

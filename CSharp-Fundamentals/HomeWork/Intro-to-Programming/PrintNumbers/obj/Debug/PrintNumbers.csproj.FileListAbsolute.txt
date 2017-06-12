@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintNumbers\bin\Debug\PrintNumbers.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintNumbers\bin\Debug\PrintNumbers.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintNumbers\obj\Debug\PrintNumbers.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\CSharp-Fundamentals-HomeWork\PrintNumbers\obj\Debug\PrintNumbers.pdb
