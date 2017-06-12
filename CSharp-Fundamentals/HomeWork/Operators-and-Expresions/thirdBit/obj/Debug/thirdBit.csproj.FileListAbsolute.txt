@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\thirdBit\bin\Debug\thirdBit.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\thirdBit\bin\Debug\thirdBit.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\thirdBit\bin\Debug\thirdBit.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\thirdBit\obj\Debug\thirdBit.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\thirdBit\obj\Debug\thirdBit.pdb

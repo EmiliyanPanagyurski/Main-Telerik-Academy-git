@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\NthBit\bin\Debug\NthBit.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\NthBit\bin\Debug\NthBit.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\NthBit\bin\Debug\NthBit.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\NthBit\obj\Debug\NthBit.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\NthBit\obj\Debug\NthBit.pdb

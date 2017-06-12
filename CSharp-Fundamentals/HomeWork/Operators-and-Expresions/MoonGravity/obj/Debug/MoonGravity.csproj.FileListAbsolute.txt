@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\MoonGravity\bin\Debug\MoonGravity.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\MoonGravity\bin\Debug\MoonGravity.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\MoonGravity\bin\Debug\MoonGravity.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\MoonGravity\obj\Debug\MoonGravity.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\MoonGravity\obj\Debug\MoonGravity.pdb

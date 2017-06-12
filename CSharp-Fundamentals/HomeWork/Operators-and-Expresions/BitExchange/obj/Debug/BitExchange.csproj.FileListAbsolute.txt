@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\BitExchange\bin\Debug\BitExchange.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\BitExchange\bin\Debug\BitExchange.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\BitExchange\bin\Debug\BitExchange.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\BitExchange\obj\Debug\BitExchange.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\BitExchange\obj\Debug\BitExchange.pdb

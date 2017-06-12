@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\FourDigits\bin\Debug\FourDigits.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\FourDigits\bin\Debug\FourDigits.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\FourDigits\bin\Debug\FourDigits.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\FourDigits\obj\Debug\FourDigits.csprojResolveAssemblyReference.cache
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\FourDigits\obj\Debug\FourDigits.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\FourDigits\obj\Debug\FourDigits.pdb

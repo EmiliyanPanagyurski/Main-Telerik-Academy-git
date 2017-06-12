@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\ModifyBit\bin\Debug\ModifyBit.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\ModifyBit\bin\Debug\ModifyBit.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\ModifyBit\bin\Debug\ModifyBit.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\ModifyBit\obj\Debug\ModifyBit.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\ModifyBit\obj\Debug\ModifyBit.pdb

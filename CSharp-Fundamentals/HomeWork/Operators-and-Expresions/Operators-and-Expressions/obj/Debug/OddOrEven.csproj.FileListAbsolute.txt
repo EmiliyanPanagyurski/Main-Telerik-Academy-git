@@ -1,0 +1,6 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\Operators-and-Expressions\bin\Debug\Operators-and-Expressions.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\Operators-and-Expressions\bin\Debug\Operators-and-Expressions.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\Operators-and-Expressions\bin\Debug\Operators-and-Expressions.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\Operators-and-Expressions\obj\Debug\OddOrEven.csprojResolveAssemblyReference.cache
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\Operators-and-Expressions\obj\Debug\Operators-and-Expressions.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Operators-and-Expressions\Operators-and-Expressions\obj\Debug\Operators-and-Expressions.pdb
