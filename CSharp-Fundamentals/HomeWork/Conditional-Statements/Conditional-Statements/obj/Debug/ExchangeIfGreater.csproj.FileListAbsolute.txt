@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\Conditional-Statements\bin\Debug\Conditional-Statements.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\Conditional-Statements\bin\Debug\Conditional-Statements.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\Conditional-Statements\bin\Debug\Conditional-Statements.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\Conditional-Statements\obj\Debug\Conditional-Statements.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\Conditional-Statements\obj\Debug\Conditional-Statements.pdb

@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\BiggestOfFive\bin\Debug\BiggestOfFive.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\BiggestOfFive\bin\Debug\BiggestOfFive.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\BiggestOfFive\bin\Debug\BiggestOfFive.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\BiggestOfFive\obj\Debug\BiggestOfFive.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\BiggestOfFive\obj\Debug\BiggestOfFive.pdb

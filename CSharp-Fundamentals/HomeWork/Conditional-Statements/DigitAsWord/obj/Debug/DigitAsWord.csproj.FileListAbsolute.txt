@@ -1,0 +1,5 @@
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\DigitAsWord\bin\Debug\DigitAsWord.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\DigitAsWord\bin\Debug\DigitAsWord.pdb
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\DigitAsWord\obj\Debug\DigitAsWord.exe
+c:\users\panagyurski\documents\visual studio 2015\Projects\Conditional-Statements\DigitAsWord\obj\Debug\DigitAsWord.pdb
