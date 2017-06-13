@@ -1,0 +1,5 @@
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\DecimelToBinary\bin\Debug\DecimelToBinary.exe.config
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\DecimelToBinary\bin\Debug\DecimelToBinary.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\DecimelToBinary\bin\Debug\DecimelToBinary.pdb
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\DecimelToBinary\obj\Debug\DecimelToBinary.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\DecimelToBinary\obj\Debug\DecimelToBinary.pdb

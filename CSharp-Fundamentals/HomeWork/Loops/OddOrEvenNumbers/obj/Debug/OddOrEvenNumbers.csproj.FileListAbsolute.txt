@@ -1,0 +1,5 @@
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\OddOrEvenNumbers\bin\Debug\OddOrEvenNumbers.exe.config
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\OddOrEvenNumbers\bin\Debug\OddOrEvenNumbers.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\OddOrEvenNumbers\bin\Debug\OddOrEvenNumbers.pdb
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\OddOrEvenNumbers\obj\Debug\OddOrEvenNumbers.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\OddOrEvenNumbers\obj\Debug\OddOrEvenNumbers.pdb

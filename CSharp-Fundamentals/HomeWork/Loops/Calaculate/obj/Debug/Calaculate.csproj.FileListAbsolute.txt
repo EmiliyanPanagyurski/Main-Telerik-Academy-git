@@ -1,0 +1,6 @@
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\Calaculate\bin\Debug\Calaculate.exe.config
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\Calaculate\bin\Debug\Calaculate.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\Calaculate\bin\Debug\Calaculate.pdb
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\Calaculate\obj\Debug\Calaculate.csprojResolveAssemblyReference.cache
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\Calaculate\obj\Debug\Calaculate.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\Calaculate\obj\Debug\Calaculate.pdb

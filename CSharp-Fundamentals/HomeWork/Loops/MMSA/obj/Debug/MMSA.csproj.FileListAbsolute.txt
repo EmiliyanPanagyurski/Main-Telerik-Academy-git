@@ -1,0 +1,6 @@
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\MMSA\bin\Debug\MMSA.exe.config
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\MMSA\bin\Debug\MMSA.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\MMSA\bin\Debug\MMSA.pdb
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\MMSA\obj\Debug\MMSA.csprojResolveAssemblyReference.cache
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\MMSA\obj\Debug\MMSA.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\MMSA\obj\Debug\MMSA.pdb

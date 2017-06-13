@@ -1,0 +1,6 @@
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\CalculateAggain\bin\Debug\CalculateAggain.exe.config
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\CalculateAggain\bin\Debug\CalculateAggain.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\CalculateAggain\bin\Debug\CalculateAggain.pdb
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\CalculateAggain\obj\Debug\CalculateAggain.csprojResolveAssemblyReference.cache
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\CalculateAggain\obj\Debug\CalculateAggain.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\CalculateAggain\obj\Debug\CalculateAggain.pdb

@@ -1,0 +1,6 @@
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe.config
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.pdb
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.csprojResolveAssemblyReference.cache
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.exe
+c:\Users\panagyurski\documents\visual studio 2015\Projects\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.pdb
